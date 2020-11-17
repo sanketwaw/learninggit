@@ -6,4 +6,6 @@ this is sample1
 
 i am editing it again
 
-again
+again 
+
+this is in master
